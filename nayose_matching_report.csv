@@ -1,0 +1,101 @@
+﻿source_customer_id,source_name_kanji,source_name_kana,source_name_romaji,target_customer_id,target_name_kanji,target_name_kana,target_name_romaji,kanji_score,kana_score,romaji_score,name_score,address_score,phone_score,overall_score,match_category
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS002,加藤太郎,かとうたろう,katoutarou,25.0,46.15,43.48,35.04,28.0,46.15,34.95,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,22.22,26.67,23.08,23.73,32.73,32.0,27.22,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS008,鈴木 太一,すずき たいち,suzuki taichi,25.0,15.38,24.0,21.91,16.67,40.0,23.31,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,14.29,33.33,10.95,36.73,40.0,21.75,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS006,山田 結衣,やまだ ゆい,yamada yui,0.0,16.67,45.45,14.09,15.69,48.0,19.58,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS005,山本 結衣,やまもと ゆい,yamamoto yui,0.0,15.38,41.67,12.95,20.34,32.0,17.66,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,0.0,20.69,4.14,28.07,53.85,17.58,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS003,山下 英樹,やました ひでき,yamashita hideki,0.0,14.29,35.71,11.43,23.33,30.77,17.31,Non-Match
+C001,中村 裕太,なかむら ゆうた,nakamura yuuta,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,14.29,29.63,10.21,21.43,38.46,17.25,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS002,加藤太郎,かとうたろう,katoutarou,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,44.44,57.14,60.87,51.54,25.53,32.0,42.11,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS004,斎藤 香織,さいとう かおり,saitou kaori,25.0,30.77,57.14,33.16,43.9,32.0,35.67,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,25.0,46.15,43.48,35.04,28.0,30.77,32.64,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS008,鈴木 太一,すずき たいち,suzuki taichi,25.0,16.67,27.27,22.96,30.77,32.0,26.27,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,15.38,33.33,11.28,33.33,53.85,23.18,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS003,山下 英樹,やました ひでき,yamashita hideki,0.0,15.38,24.0,9.41,30.77,30.77,17.95,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,15.38,23.08,9.23,24.49,38.46,17.43,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS005,山本 結衣,やまもと ゆい,yamamoto yui,0.0,16.67,38.1,12.62,15.69,32.0,16.29,Non-Match
+C002,加藤 太郎,かとう たろう,katou tarou,INS006,山田 結衣,やまだ ゆい,yamada yui,0.0,0.0,21.05,4.21,32.56,32.0,15.47,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS003,山下 英樹,やました ひでき,yamashita hideki,100.0,100.0,100.0,100.0,100.0,24.0,88.6,Review Required
+C003,山下 英樹,やました ひでき,yamashita hideki,INS005,山本 結衣,やまもと ゆい,yamamoto yui,25.0,30.77,38.46,29.42,32.79,41.67,32.1,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS006,山田 結衣,やまだ ゆい,yamada yui,25.0,33.33,41.67,30.83,26.42,16.67,27.6,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,0.0,26.67,35.71,15.14,38.6,25.0,22.48,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,14.29,41.38,12.56,31.03,40.0,21.29,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS008,鈴木 太一,すずき たいち,suzuki taichi,0.0,15.38,44.44,13.5,32.26,25.0,19.91,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS002,加藤太郎,かとうたろう,katoutarou,0.0,15.38,24.0,9.41,30.77,40.0,19.34,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,0.0,14.29,35.71,11.43,23.33,32.0,17.49,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,14.29,51.61,14.61,20.34,24.0,17.45,Non-Match
+C003,山下 英樹,やました ひでき,yamashita hideki,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,0.0,38.46,7.69,27.45,16.67,13.98,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS004,斎藤 香織,さいとう かおり,saitou kaori,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS002,加藤太郎,かとうたろう,katoutarou,25.0,30.77,57.14,33.16,43.9,32.0,35.67,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,0.0,26.67,50.0,18.0,30.43,50.0,25.91,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,0.0,14.29,33.33,10.95,36.73,32.0,20.55,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,14.29,44.44,13.18,33.33,24.0,19.84,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS005,山本 結衣,やまもと ゆい,yamamoto yui,0.0,15.38,45.45,13.7,24.0,33.33,19.22,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,14.29,40.0,12.29,29.79,24.0,18.42,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS006,山田 結衣,やまだ ゆい,yamada yui,0.0,16.67,20.0,9.0,28.57,33.33,17.54,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS008,鈴木 太一,すずき たいち,suzuki taichi,0.0,15.38,34.78,11.57,23.53,16.67,15.33,Non-Match
+C004,斎藤 香織,さいとう かおり,saitou kaori,INS003,山下 英樹,やました ひでき,yamashita hideki,0.0,0.0,38.46,7.69,27.45,16.0,13.88,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS005,山本 結衣,やまもと ゆい,yamamoto yui,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS006,山田 結衣,やまだ ゆい,yamada yui,75.0,72.73,70.0,73.32,34.62,33.33,57.65,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,28.57,30.77,51.85,33.89,37.93,32.0,34.62,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS003,山下 英樹,やました ひでき,yamashita hideki,25.0,30.77,46.15,30.96,32.79,24.0,30.37,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS008,鈴木 太一,すずき たいち,suzuki taichi,0.0,16.67,17.39,8.48,42.62,33.33,20.74,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS002,加藤太郎,かとうたろう,katoutarou,0.0,16.67,38.1,12.62,31.37,32.0,20.21,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,15.38,45.45,13.7,24.0,33.33,19.22,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,0.0,15.38,41.67,12.95,23.73,32.0,18.5,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,0.0,32.0,6.4,28.07,40.0,16.86,Non-Match
+C005,山本 結衣,やまもと ゆい,yamamoto yui,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,0.0,14.29,25.0,9.29,17.86,33.33,15.04,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS006,山田 結衣,やまだ ゆい,yamada yui,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS005,山本 結衣,やまもと ゆい,yamamoto yui,75.0,72.73,70.0,73.32,34.62,33.33,57.65,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS003,山下 英樹,やました ひでき,yamashita hideki,25.0,33.33,50.0,32.5,26.42,40.0,32.11,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,25.0,16.67,43.48,26.2,28.57,32.0,27.66,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,16.67,30.0,11.0,28.57,41.67,19.99,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,0.0,16.67,45.45,14.09,11.76,48.0,18.59,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS008,鈴木 太一,すずき たいち,suzuki taichi,0.0,18.18,19.05,9.26,30.19,33.33,18.1,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS002,加藤太郎,かとうたろう,katoutarou,0.0,0.0,31.58,6.32,32.56,40.0,17.93,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,0.0,40.0,8.0,28.0,40.0,17.8,Non-Match
+C006,山田 結衣,やまだ ゆい,yamada yui,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,0.0,15.38,18.18,8.25,25.0,41.67,17.45,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS006,山田 結衣,やまだ ゆい,yamada yui,25.0,16.67,43.48,26.2,28.57,24.0,26.46,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS002,加藤太郎,かとうたろう,katoutarou,0.0,15.38,33.33,11.28,33.33,61.54,24.33,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,0.0,26.67,44.44,16.89,22.64,40.0,21.79,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,14.29,40.0,12.29,32.73,38.46,21.33,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS003,山下 英樹,やました ひでき,yamashita hideki,0.0,14.29,41.38,12.56,31.03,38.46,21.06,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS008,鈴木 太一,すずき たいち,suzuki taichi,0.0,15.38,23.08,9.23,31.03,40.0,19.3,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,14.29,40.0,12.29,29.79,24.0,18.42,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS005,山本 結衣,やまもと ゆい,yamamoto yui,0.0,0.0,24.0,4.8,24.56,40.0,15.02,Non-Match
+C007,吉田 洋介,よしだ ようすけ,yoshida yousuke,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,0.0,14.29,29.63,10.21,10.71,38.46,14.57,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS008,鈴木 太一,すずき たいち,suzuki taichi,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS002,加藤太郎,かとうたろう,katoutarou,25.0,16.67,27.27,22.96,30.77,32.0,26.27,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,22.22,14.29,32.0,21.8,21.05,41.67,24.59,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS003,山下 英樹,やました ひでき,yamashita hideki,0.0,15.38,44.44,13.5,32.26,32.0,20.96,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,25.0,15.38,32.0,23.51,16.67,16.0,20.67,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS005,山本 結衣,やまもと ゆい,yamamoto yui,0.0,16.67,17.39,8.48,42.62,25.0,19.49,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS006,山田 結衣,やまだ ゆい,yamada yui,0.0,18.18,19.05,9.26,30.19,33.33,18.1,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,15.38,23.08,9.23,31.03,32.0,18.1,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,15.38,34.78,11.57,23.53,16.67,15.33,Non-Match
+C008,鈴木 太一,すずき たいち,suzuki taichi,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,0.0,28.57,5.71,37.29,16.0,15.15,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS005,山本 結衣,やまもと ゆい,yamamoto yui,28.57,30.77,51.85,33.89,37.93,32.0,34.62,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,0.0,13.33,48.28,13.66,33.33,32.0,21.33,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,14.29,44.44,13.18,37.5,24.0,20.88,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS002,加藤太郎,かとうたろう,katoutarou,0.0,15.38,38.46,12.31,28.57,38.46,20.3,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,14.29,40.0,12.29,32.73,30.77,20.17,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS003,山下 英樹,やました ひでき,yamashita hideki,0.0,14.29,51.61,14.61,20.34,30.77,18.47,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,0.0,0.0,27.59,5.52,28.07,53.85,18.41,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS008,鈴木 太一,すずき たいち,suzuki taichi,0.0,0.0,21.43,4.29,37.29,24.0,15.5,Non-Match
+C009,橋本 淳,はしもと あつし,hashimoto atsushi,INS006,山田 結衣,やまだ ゆい,yamada yui,0.0,0.0,16.0,3.2,28.0,40.0,14.92,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS010,石井 聡太郎,いしい そうたろう,ishii soutarou,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Exact Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS002,加藤太郎,かとうたろう,katoutarou,44.44,57.14,60.87,51.54,25.53,32.0,42.11,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS001,中村 裕太 ,なかむら ゆうた,nakamura yuuta,22.22,26.67,23.08,23.73,25.45,32.0,25.4,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS004,斎藤 香織,さいとう かおり,saitou kaori,0.0,26.67,41.67,16.34,30.43,50.0,24.91,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS008,鈴木 太一,すずき たいち,suzuki taichi,22.22,14.29,24.0,20.2,21.05,41.67,23.63,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS003,山下 英樹,やました ひでき,yamashita hideki,0.0,26.67,35.71,15.14,38.6,24.0,22.33,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS007,吉田 洋介,よしだ ようすけ,yoshida yousuke,0.0,26.67,44.44,16.89,22.64,40.0,21.79,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS009,橋本 淳,はしもと あつし,hashimoto atsushi,0.0,13.33,27.59,9.52,33.33,24.0,17.64,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS005,山本 結衣,やまもと ゆい,yamamoto yui,0.0,14.29,8.33,5.95,21.43,41.67,15.18,Non-Match
+C010,石井 聡太郎,いしい そうたろう,ishii soutarou,INS006,山田 結衣,やまだ ゆい,yamada yui,0.0,15.38,9.09,6.43,25.0,25.0,13.86,Non-Match

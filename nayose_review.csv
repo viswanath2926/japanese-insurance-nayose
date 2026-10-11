@@ -1,0 +1,2 @@
+﻿source_customer_id,source_name_kanji,source_name_kana,source_name_romaji,target_customer_id,target_name_kanji,target_name_kana,target_name_romaji,kanji_score,kana_score,romaji_score,name_score,address_score,phone_score,overall_score,match_category
+C003,山下 英樹,やました ひでき,yamashita hideki,INS003,山下 英樹,やました ひでき,yamashita hideki,100.0,100.0,100.0,100.0,100.0,24.0,88.6,Review Required
